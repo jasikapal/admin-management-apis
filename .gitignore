@@ -1,0 +1,14 @@
+# VS Code settings folder
+.vscode/
+
+# VS Code workspace files
+*.code-workspace
+
+# Mac system files (optional, but common)
+.DS_Store
+
+# Node modules (if not already present)
+node_modules/
+
+# Environment files (for security)
+.env
